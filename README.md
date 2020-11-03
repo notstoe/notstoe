@@ -4,6 +4,7 @@
 
 ## 💻 Wannabe Full Stack Developer
 
+> - **Latest Project:** [CV Webpage](https://notstoe.github.io/cv-project);
 > - **I'm currently Learning:** [The Odin Project](https://www.theodinproject.com);
 > - **Goal:** Full time working with web development;
 > - 🎵 I also love to play and listen to music;
