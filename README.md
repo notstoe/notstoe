@@ -13,7 +13,7 @@
 
 ## Language and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />
 
