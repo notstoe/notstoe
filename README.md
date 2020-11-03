@@ -30,7 +30,7 @@
 
 <img align="left" alt="npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" />
 
-<br>
+<br><br>
 
 ## Free courses I have taken so far:
 
