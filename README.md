@@ -5,7 +5,7 @@
 ## 💻 Wannabe Full Stack Developer
 
 > - **Latest Project:** [CV Webpage](https://notstoe.github.io/cv-project);
-> - **I'm currently Learning:** [The Odin Project](https://www.theodinproject.com);
+> - **I'm currently Learning:** [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript);
 > - **Goal:** Full time working with web development;
 > - 🎵 I also love to play and listen to music;
 > - 🎮 Not to mention gaming on PC...
@@ -32,7 +32,8 @@
 
 <br><br>
 
-## Free courses I have taken so far:
+## Free courses I've taken so far:
 
 > - [Basics on HTML and CSS](https://www.freecodecamp.org/learn/);
-> - [Basics on ReactJS](https://scrimba.com/learn/learnreact);
+> - [Foundations on Web Development](https://www.theodinproject.com/paths/foundations);
+> - [Basics on ReactJS](https://scrimba.com/learn/learnreact).
