@@ -33,4 +33,5 @@
 
 ## Free courses I have taken so far:
 
-> [Basics on HTML and CSS](https://www.freecodecamp.org/learn/); <br> > [Basics on ReactJS](https://scrimba.com/learn/learnreact);
+> - [Basics on HTML and CSS](https://www.freecodecamp.org/learn/);
+> - [Basics on ReactJS](https://scrimba.com/learn/learnreact);
