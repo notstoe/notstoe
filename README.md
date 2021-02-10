@@ -1,4 +1,4 @@
-# **Well, hello there. Gustavo Tonin, nice to meet ya!**
+# **Hello there. Gustavo Tonin, nice to meet ya!**
 
 ## 🧪 Chemical Engineer by Degree
 
