@@ -4,7 +4,7 @@
 
 ## 💻 Wannabe Full Stack Developer
 
-> - **Latest project:** [CV Webpage](https://notstoe.github.io/cv-project);
+> - **Latest project:** [Weather App](https://notstoe.github.io/weather-app);
 > - **I'm currently learning:** [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript);
 > - **Goal:** Full time working with web development;
 > - 🎵 I also love to play and listen to music;
