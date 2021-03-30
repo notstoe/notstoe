@@ -4,7 +4,7 @@
 
 ## 💻 Wannabe Full Stack Developer
 
-> - **Latest project:** [Weather App](https://notstoe.github.io/weather-app);
+> - **Latest project:** [E-commerce Static Website](https://notstoe.github.io/shopping-cart);
 > - **I'm currently learning:** [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript);
 > - **Goal:** Full time working with web development;
 > - 🎵 I also love to play and listen to music;
@@ -29,6 +29,10 @@
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" />
 
 <img align="left" alt="npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" />
+
+<img align="left" alt="figma" width="26px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
+
+<img align="left" alt="Framer Motion" width="26px" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" />
 
 <br><br>
 
