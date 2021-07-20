@@ -34,7 +34,7 @@
 
 <img align="left" alt="Framer Motion" width="26px" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" />
 
-<img align="left" alt="Styled Components" width="26px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+<img align="left" alt="Styled Components" width="26px" src="https://styled-components.com/atom.png" />
 
 <br><br>
 
