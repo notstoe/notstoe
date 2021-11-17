@@ -4,7 +4,7 @@
 
 ## 💻 Full Stack Developer
 
-> - **Latest project:** [Battleship Static Website](https://notstoe.github.io/battleship);
+> - **Latest project:** [Battleship Static Website](https://notstoe.github.io/battleship-game);
 > - **I'm currently learning:** [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript);
 > - **Goal:** Full time working with web development;
 > - 🎵 I also love to play and listen to music;
