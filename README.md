@@ -1,14 +1,16 @@
 # **Hello there. Gustavo Tonin, nice to meet ya!**
 
-## 🧪 Chemical Engineer by Degree
+## 💻 Full Stack Developer (React)
 
-## 💻 Full Stack Developer
+## 🧪 Background in Chemical Engineering
 
-> - **Latest project:** [Battleship Static Website](https://notstoe.github.io/battleship-game);
-> - **I'm currently learning:** [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript);
-> - **Goal:** Full time working with web development;
-> - 🎵 I also love to play and listen to music;
-> - 🎮 Not to mention gaming on PC...
+> - **Latest project:** [Freelance - Portfolio Website](https://www.indreta.art);
+> - **I'm currently learning:** [Advanced React & GraphQL](https://advancedreact.com/);
+> - **Hobbies:**
+> - 🎵 Play and listen to music;
+> - 🎮 Gaming on PC...
+> - 🎧 Just can't get enough of those audiobooks;
+> - 🥾 Enjoy the occasional hike up the mountains;
 
 <br>
 
@@ -22,19 +24,22 @@
 
 <img align="left" alt="React" width="26px" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Next.JS" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="Styled Components" width="26px" src="https://styled-components.com/atom.png" />
 
-<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" />
+<img align="left" alt="Apollo GraphQL" width="26px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" />
 
-<img align="left" alt="npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://graphql.org/img/brand/logos/logo-stacked.svg" />
 
 <img align="left" alt="figma" width="26px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
 
 <img align="left" alt="Framer Motion" width="26px" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" />
 
-<img align="left" alt="Styled Components" width="26px" src="https://styled-components.com/atom.png" />
+<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" />
+
+<img align="left" alt="npm" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" />
 
 <br><br>
 
@@ -42,4 +47,5 @@
 
 > - [Basics on HTML and CSS](https://www.freecodecamp.org/learn/);
 > - [Foundations on Web Development](https://www.theodinproject.com/paths/foundations);
-> - [Basics on ReactJS](https://scrimba.com/learn/learnreact).
+> - [Basics on ReactJS](https://scrimba.com/learn/learnreact);
+> - [Full Stack Javascript](https://www.theodinproject.com/paths/full-stack-javascript).
