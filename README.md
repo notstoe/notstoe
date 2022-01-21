@@ -2,7 +2,7 @@
 
 ## 💻 Full Stack Developer (React)
 
-## 🧪 Background in Chemical Engineering
+### 🧪 Background in Chemical Engineering
 
 > - **Latest project:** [Freelance - Portfolio Website](https://www.indreta.art);
 > - **I'm currently learning:** [Advanced React & GraphQL](https://advancedreact.com/);
