@@ -9,6 +9,7 @@
 > - **Hobbies:**
 >   - 🎵 Play and listen to music;
 >   - 🎮 Gaming on PC...
+>   - 🌍 Traveling (too cliché?);
 >   - 🎧 Just can't get enough of those audiobooks;
 >   - 🥾 Enjoy the occasional hike up the mountains;
 
@@ -24,7 +25,7 @@
 
 <img align="left" alt="React" width="30px" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" />
 
-<img align="left" alt="Next.JS" width="30px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+<img align="left" alt="Next.JS" width="30px" src="https://res.cloudinary.com/dowa8tjdi/image/upload/v1643832572/nextJS_nempv1.png" />
 
 <img align="left" alt="Typescript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Styled Components" width="30px" src="https://styled-components.com/atom.png" />
@@ -41,9 +42,11 @@
 
 <img align="left" alt="npm" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" />
 
+<img align="left" alt="strapi" width="30px" src="https://opencollective-production.s3.us-west-1.amazonaws.com/e183fa70-7b5d-11eb-825b-978575575aa4.png" />
+
 <br><br>
 
-## Free courses I've taken so far:
+## Courses I've taken so far:
 
 > - [Basics on HTML and CSS](https://www.freecodecamp.org/learn/);
 > - [Foundations on Web Development](https://www.theodinproject.com/paths/foundations);
