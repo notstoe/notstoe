@@ -1,6 +1,6 @@
 # **Hello. Gustavo Tonin, nice to meet ya!**
 
-### 💻 Full Stack Developer (React)
+## 💻 Full Stack Developer (React.js)
 
 > _🧪 Background in Chemical Engineering_
 >
@@ -12,6 +12,18 @@
 >   - 🌍 Traveling (too cliché?);
 >   - 🎧 Just can't get enough of those audiobooks;
 >   - 🥾 Enjoy the occasional hike up the mountains;
+
+<br>
+
+## More about me:
+
+💬 Ask me about **anything!** I'll get back to you as soon as possible;
+
+📫 You can reach me at **gstonin95@gmail.com** or [Linkedin](https://www.linkedin.com/in/gustavo-s-tonin);
+
+⚡ Personal website: [Gustavo Tonin](https://gustavotonin.vercel.app/)
+
+<br>
 
 <br>
 
@@ -32,7 +44,7 @@
 
 <img align="left" alt="Apollo GraphQL" width="30px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" />
 
-<img align="left" alt="GraphQL" width="30px" src="https://graphql.org/img/brand/logos/logo-stacked.svg" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 
 <img align="left" alt="figma" width="30px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
 
