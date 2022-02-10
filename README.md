@@ -8,14 +8,12 @@
 > - **I'm currently learning:** [Advanced React & GraphQL](https://advancedreact.com/);
 > - **Hobbies:**
 >   - 🎵 Play and listen to music;
->   - 🎮 Gaming on PC...
->   - 🌍 Traveling (too cliché?);
+>   - 🎮 Gaming on PC;
+>   - 🌍 Traveling;
 >   - 🎧 Just can't get enough of those audiobooks;
 >   - 🥾 Enjoy the occasional hike up the mountains;
 
-<br>
-
-## More about me:
+---
 
 💬 Ask me about **anything!** I'll get back to you as soon as possible;
 
