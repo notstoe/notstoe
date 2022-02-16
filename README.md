@@ -19,7 +19,7 @@
 
 📫 You can reach me at **gstonin95@gmail.com** or [Linkedin](https://www.linkedin.com/in/gustavo-s-tonin);
 
-⚡ Personal website: [Gustavo Tonin](https://gustavotonin.vercel.app/)
+⚡ Personal website: [gustavotonin.com](https://gustavotonin.com/)
 
 <br>
 
