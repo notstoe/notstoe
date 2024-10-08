@@ -10,7 +10,6 @@
 >   - 🎵 Play and listen to music;
 >   - 🎮 Gaming on PC;
 >   - 🌍 Traveling;
->   - 🎧 Just can't get enough of those audiobooks;
 >   - 🥾 Enjoy the occasional hike up the mountains;
 
 ---
