@@ -1,11 +1,10 @@
 # **Hello. Gustavo Tonin, nice to meet ya!**
 
-## 💻 Full Stack Developer (React.js)
+## 💻 Full Stack Developer (React Native & Node.js)
 
 > _🧪 Background in Chemical Engineering_
 >
 > - **Latest project:** [Freelance - Portfolio Website](https://www.indreta.art);
-> - **I'm currently learning:** [Advanced React & GraphQL](https://advancedreact.com/);
 > - **Hobbies:**
 >   - 🎵 Play and listen to music;
 >   - 🎮 Gaming on PC;
