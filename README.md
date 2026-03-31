@@ -4,7 +4,6 @@
 
 > _🧪 Background in Chemical Engineering_
 >
-> - **Latest project:** [Freelance - Portfolio Website](https://www.indreta.art);
 > - **Hobbies:**
 >   - 🎵 Play and listen to music;
 >   - 🎮 Gaming on PC;
